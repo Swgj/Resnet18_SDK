@@ -1,0 +1,9 @@
+{
+  "type": "Ascend App",
+  "project_type": "Ascend MindX SDK App",
+  "project_desc": "",
+  "target": "",
+  "target_id": "",
+  "adk_version": "1.81.22.2.220",
+  "cann_version": "5.1.RC1"
+}

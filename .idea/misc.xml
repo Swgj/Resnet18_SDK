@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/../out" />
+  </component>
+  <component name="com.huawei.mind.studio.ssh.deploy.persistent.DeploySettingsState">
+    <option name="deployModels">
+      <list>
+        <DeployModel>
+          <option name="name" value="root@120.46.188.128:22" />
+          <option name="uuid" value="42e30431-5b1c-48f7-acf6-4aa6a598a68e" />
+          <option name="deployConnectionModel" value="{&quot;deployConnectionType&quot;:&quot;SFTP&quot;,&quot;sshConnectionModel&quot;:{&quot;uuid&quot;:&quot;ede45322-3335-49e9-ad08-5b931cc58c73&quot;}}" />
+          <option name="deployMappingModels" value="[{&quot;deploymentPath&quot;:&quot;/root/MindStudio-WorkSpace/Resnet18_SDK_5eea4e0b&quot;,&quot;localPath&quot;:&quot;D:/Codes/python/Ascend/Resnet18_SDK&quot;}]" />
+        </DeployModel>
+        <DeployModel>
+          <option name="name" value="ascend-x86_64-linux (89f0c9dc-c59e-4f0a-adb3-daf59537c3d8)" />
+          <option name="relationToolChainsUuid" value="89f0c9dc-c59e-4f0a-adb3-daf59537c3d8" />
+          <option name="uuid" value="fd9635b3-fd7e-452d-97c7-ee330bedba8b" />
+          <option name="deployConnectionModel" value="{&quot;deployConnectionType&quot;:&quot;SFTP&quot;,&quot;sshConnectionModel&quot;:{&quot;uuid&quot;:&quot;ede45322-3335-49e9-ad08-5b931cc58c73&quot;}}" />
+          <option name="deployMappingModels" value="[{&quot;deploymentPath&quot;:&quot;/tmp/fd9635b3-fd7e-452d-97c7-ee330bedba8b&quot;,&quot;localPath&quot;:&quot;D:\\Codes\\python\\Ascend\\Resnet18_SDK&quot;}]" />
+        </DeployModel>
+      </list>
+    </option>
+  </component>
+</project>
